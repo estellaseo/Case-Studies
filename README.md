@@ -1,1 +1,1 @@
-# R_case-study
+# EDA case study
